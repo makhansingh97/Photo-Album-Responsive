@@ -22,3 +22,6 @@ To Start Server:
 To Visit App:
 
 `localhost:3000`
+
+# Live Preview
+https://makhansingh97.github.io/Photo-Album-Responsive/
